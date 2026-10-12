@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="Backend/Backend.csproj" />
   <Project Path="Frontend.Console/Frontend.Console.csproj" />
-  <Project Path="Frontend.Windows/Frontend.Windows.csproj" />
+  <Project Path="FrontendWindows/FrontendWindows.csproj" Id="8f9550e5-909d-4558-a59f-e2ad905b26ca" />
 </Solution>
