@@ -110,7 +110,7 @@ public static class ExpressionEvaluator
         '+' => 1,
         '-' => 1,
         '(' => 5,
-        _ => throw new Exception("Invalid expression."),
+        _ => throw new Exception("Invalid expression."), 
     };
 
     private static bool IsOperator(char item) =>
